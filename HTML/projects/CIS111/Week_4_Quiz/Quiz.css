@@ -1,0 +1,42 @@
+/* Style sheet for Quiz.html */
+
+body {
+	background-color:#cccccc;
+}
+
+
+h1 {
+	color:Green;
+}
+
+
+h2 {
+	color:Blue;
+	font-size:24px;
+	border-bottom: 5px solid gray;
+}
+
+
+ ul li {
+	text-decoration:underline;
+	font-size:18px;
+}
+
+
+ ul li:first-child {
+	background-color:Green;
+}
+
+
+ ol li {
+	font-size:24px;
+	font-weight:bold;
+}
+
+p {
+	font-size:16px;
+}
+
+span {
+	color:red;
+}

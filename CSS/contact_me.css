@@ -1,0 +1,52 @@
+h1, p, label {
+	color: #FFFFFF;
+}
+
+h1 {
+	font-family: 'Nunito', sans-serif;
+	font-size: 4vw;
+	margin: 0px 0px 2vw 1vw;
+}
+
+label {
+	margin: 0px 0px 0px 1vw;
+	font-family: 'Nunito', sans-serif;
+	font-size: 2vw;
+	display: block;
+}
+
+input, select{
+	border: 0px;
+	border-radius: 1vw;
+	padding: 0.2vw 1vw 0.2vw 1vw;
+	margin: 0vw 0px 2vw 1vw;
+	width: calc(120px + 35vw);
+	height: calc(10px + 2vw);
+	font-family: 'Courgette', cursive;
+	font-size: calc(6px + 1.5vw);
+}
+
+textarea{
+	border: 0px;
+	border-radius: 1vw;
+	padding: 0.2vw 1vw 0.2vw 1vw;
+	margin: 0vw 0px 2vw 1vw;
+	width: calc(200px + 30vw);
+	height: calc(100px + 2vw);
+	font-family: 'Courgette', cursive;
+	font-size: calc(6px + 1.5vw);
+}
+
+p {
+	font-size: calc(12px + 0.7vw);
+	margin: 0.2vw 0px 0.2vw 1vw;
+}
+
+input[type=submit] {
+	background: #93EB93;
+}
+
+.contact-title {
+	font-weight: bold;
+	font-size: calc(14px + 0.7vw);
+}

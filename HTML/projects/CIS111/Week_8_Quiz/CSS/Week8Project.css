@@ -1,0 +1,62 @@
+body {
+	background-color: #FFFFFF;
+}
+
+img {
+	width: 50vmin;
+}
+
+main {
+	background-color: #DDDDDD;
+	border: 2px solid #888888;
+	width: 95vmin;
+	font-family: "Courier New";
+	font-size:calc(8px + 1.5vmin);
+	font-weight: normal;
+}
+
+h2 {
+	text-align: left;
+	font-size: inherit;
+	font-weight: inherit;
+	margin: 5px 0px 0px 3px;
+}
+
+table {
+	text-align: left;
+	font-size: inherit;
+	margin-top: 0px;
+}
+
+th {
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+footer {
+	width: 95vmin;
+	font-size:calc(5px + 1vmin);
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	width: 46.5vmin;
+}
+
+.footer-left {
+	margin: 0px 0px 0px 3px;
+}
+
+.footer-right {
+	text-align: right;
+}
+
+.blue {
+	color: #1111AA;
+}
+
+.red {
+	color: #BB1111;
+}

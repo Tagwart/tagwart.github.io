@@ -1,0 +1,73 @@
+body {
+	background: #7A4C2E /* url("../Images/stonefloor_jiggypattern.jpg") repeat fixed top left */;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+header {
+	margin-top: 1vw;
+	text-align: center;
+	font-family: 'Righteous', cursive;
+	font-weight: bold;
+	font-size: calc(8.5px + 0.9vw);
+	text-align: justify;
+}
+
+nav {
+	width: calc(200px + 24vw);
+	margin: auto;
+	margin-bottom: 0px;
+	padding: 0px 0px 0px 0px;
+	/* border: 2px solid #B9F8C8; */
+	border-bottom: 0px;
+	border-radius: 1em 1em 0em 0em;
+	display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+	display: inline-block;
+	color: #DDFFDD;
+	text-decoration: none;
+	background: #94D98B;
+	text-align: center;
+	border-radius: inherit;
+	padding: 0px 1vw 0px 1vw;
+}
+
+main {
+	width: 75vw;
+	background: #4A9040;
+	margin: auto;
+	padding: 2vw;
+	/* border: 2px solid #56B949; */
+	border-radius: 1vw 1vw 0vw 0vw;
+}
+
+p {
+	color: #FFFFFF;
+	font-family: 'Courgette', cursive;
+}
+
+footer {
+	width: 75vw;
+	height: 5vw;
+	padding: 2vw;
+	margin: auto;
+	margin-top: 8px;
+	margin-bottom: 5px;
+	background: #4A9040;
+	/* border: 2px solid #56B949; */
+	border-radius: 0vw 0vw 1vw 1vw;
+}
+
+footer p {
+	font-size: 1.5vw;
+	margin: 0px 0px 0.5vw 0px;
+	display: block;
+}
+
+.current-tab {
+	color: #FFFFFF;
+	background: #4A9040;
+}

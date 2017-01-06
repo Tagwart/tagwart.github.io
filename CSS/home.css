@@ -1,0 +1,44 @@
+main {
+	height: calc(310px + 1vw);
+}
+
+img {
+	margin: 0px 1.2vw 0px 0px;
+	padding: 0px;
+}
+
+p {
+	display: inline;
+	margin: 0px 0px 0px 0px;
+	font-size: calc(10px + 1vw);
+	width: 50vw;
+}
+
+figcaption {
+	display: block;
+	width: 20vw;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	font-size: 1.8vw;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.portrait {
+	display: inline;
+	width: 20vw;
+	border-radius: 0.5em 0.5em 0em 0em;
+	float: left;
+}
+
+.cap {
+	clear: left;
+	font-family: 'Nunito', sans-serif;
+	background: #2E679D;
+	border-radius: 0em 0em 0.5em 0.5em;
+}
+
+.img-cap {
+	height: 22.5vw;
+	float: left;
+}

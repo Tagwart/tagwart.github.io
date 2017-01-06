@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+label {
+   font-size: 18px;
+}
+
+input {
+    display: block;
+    margin: 5px 0px 10px 0px;
+}
+
+select {
+    font-size: 18px;
+    margin: 5px 0px 8px 0px;
+    width: 200px;
+    display: block;
+}
+
+input {
+    font-size:18px;
+}

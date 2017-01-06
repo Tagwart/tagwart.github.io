@@ -1,0 +1,129 @@
+body {
+	background-color: #000000;
+	margin: 0px;
+	padding: 0px;
+}
+
+.center-column {
+	padding: 0px;
+	margin: 0px auto 0px auto;
+	width: 620px;
+}
+
+.main-content {
+	width: 600px;
+	margin: 10px auto 10px auto;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+
+.header {
+	padding: 10px;
+	margin: 0px auto 0px auto;
+	width: 300;
+}
+
+.header-image {
+	height: 60px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.header h1 {
+	color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	height: 50px;
+	text-align: center;
+}
+
+.main-content h2 {
+	font-size:16px;
+	font-weight: 400;
+}
+
+.main-content h3 {
+	font-size: 16px;
+	border-bottom: 5px solid #888888;
+	font-weight: 400;
+	margin: 25px 0px 5px 0px;
+	padding: 0px;
+
+}
+
+.main-content ul {
+	font-size: 16px;
+	margin: 0px 0px 0px 40px;
+	padding: 0px;
+}
+
+.main-content ul li {
+	margin: 0px;
+	padding: 0px;
+	height: 17px;
+}
+
+.screen-shot-div {
+	width: 300px;
+	height: 200px;
+	margin: auto;
+}
+
+.screen-shot {
+	width:300px;
+	display: block;
+	margin: 0px auto 0px auto;
+}
+
+.screen-shot-link {
+	display: inline-block;
+	width: 300px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.footer {
+	margin: 0px auto 10px auto;
+	padding: 0px;
+	width: 336px;
+}
+
+.footer-image {
+	float: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.footer h1 {
+	color: white;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.purple-text {
+	color: purple;
+}
+
+.blue-text {
+	color: blue;
+}
+
+.brown-text {
+	color: brown;
+}
+
+.green-text {
+	color: green;
+}
+
+.pink-text {
+	color: #B20085;
+}
+
+.pink-text li a:link, a:visited {
+	text-decoration: none;
+	color:#B20085;
+}
